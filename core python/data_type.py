@@ -40,7 +40,7 @@
 # print(a)
 # print(type(a))
 
-student={
-    "name":"manthan",
-    "surname":"rana "
-}
+# student={
+#     "name":"manthan",
+#     "surname":"rana "
+# }
